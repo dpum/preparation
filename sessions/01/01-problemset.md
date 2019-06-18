@@ -88,8 +88,9 @@ Example 3:
 Input: s = "paper", t = "title"
 Output: true
 ```
-Note:
-You may assume both *s* and *t* have the same length.
+
+Note: You may assume both *s* and *t* have the same length.
+
 --------------------------------
 
 #### 3.B - Happy Number (Leetcode 202)
