@@ -10,7 +10,16 @@ B. [12289 - One-Two-Three](https://uva.onlinejudge.org/external/122/12289.pdf)
 
 C. [11727 - Cost Cutting](https://uva.onlinejudge.org/external/117/11727.pdf)
 
-## 2. Graph Traversal
+## 2. Graph Traversal - Leetcode
+--------------------------------
+#### [Link to BFS section](https://leetcode.com/tag/breadth-first-search/)
+#### [Link to DFS section](https://leetcode.com/tag/depth-first-search/)
+
+A. [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+
+B. [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+
+## 3. Graph Traversal - UVa
 --------------------------------
 #### [Link to section](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=666)
 
