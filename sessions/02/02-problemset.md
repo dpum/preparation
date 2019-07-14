@@ -33,6 +33,6 @@ D. [614 - Mapping the Route](https://uva.onlinejudge.org/external/6/614.pdf)
 
 E. [11902 - Dominator](https://uva.onlinejudge.org/external/119/11902.pdf)
 
-## 3. Bonus (Hint: Dijkstra)
+## 4. Bonus (Hint: Dijkstra)
 --------------------------------
 A. [589 - Pushing Boxes](https://uva.onlinejudge.org/external/5/p589.pdf)
